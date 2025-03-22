@@ -21,7 +21,7 @@ This project demonstrates a **multi-agent group chat system** that automates Git
 
 You can try the system directly in your browser using the Google Colab notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrmaverick9119/learningwithGithub/blob/main/GitHub_Automation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrmaverick9119/ag2-meetup-blr/blob/main/ag-meetup-blr.ipynb)
 
 ---
 
