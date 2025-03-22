@@ -1,6 +1,5 @@
-# GitHub Automation with Multi-Agent Group Chat
+# Automating GitHub operations with AG2
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 This project demonstrates a **multi-agent group chat system** that automates GitHub operations such as creating issues and committing code. The system uses a collaborative workflow between agents to collect user input, validate parameters, and execute GitHub API requests.
 
